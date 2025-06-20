@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to sankhyiki.io!"
+date:   2025-06-20 20:43:00 +0000
+categories: blog
+---
+This is your first blog post using Jekyll. You can add more posts by creating additional Markdown files in the `_posts` directory. Each post file must be named in the format `YYYY-MM-DD-title.md`.
